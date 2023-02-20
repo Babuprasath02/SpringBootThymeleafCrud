@@ -1,0 +1,6 @@
+com\kgisl\springbootthymeleafcrud\controller\EmployeeController.class
+com\kgisl\springbootthymeleafcrud\service\EmployeeServiceImpl.class
+com\kgisl\springbootthymeleafcrud\repository\EmployeeRepository.class
+com\kgisl\springbootthymeleafcrud\model\Employee.class
+com\kgisl\springbootthymeleafcrud\SpringbootthymeleafcrudApplication.class
+com\kgisl\springbootthymeleafcrud\service\EmployeeService.class
